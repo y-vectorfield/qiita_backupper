@@ -40,6 +40,7 @@ backup.bat
 [OK!] AAAAA
 [OK!] BBBBB
 [OK!] CCCCC
+All 3 items saved!
 ```
 
 ## Usage(macOS, Linux)
@@ -55,6 +56,7 @@ $ ./backup.sh $ACCOUNT_NAME $FORMAT
 [OK!] AAAAA
 [OK!] BBBBB
 [OK!] CCCCC
+All 3 items saved!
 ```
 
 |Arguments|Details|
